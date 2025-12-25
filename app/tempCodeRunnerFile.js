@@ -1,0 +1,1 @@
+ <section className="grid grid-cols-2 h-[50vh]">
